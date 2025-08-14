@@ -1,5 +1,5 @@
 <h1 align="center">Aguacero7 - 🏖️</h1>
-<h4 align="center">🇫🇷 | 🇪🇸 | 🇬🇧 | 🇹🇷 </h4>
+<h4 align="center">🇫🇷 | 🇪🇸 | 🇹🇷 </h4>
 
 
 <div align="center">
